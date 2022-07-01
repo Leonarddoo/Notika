@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<leonarddoo>
+
+    <command>
+        <nom>exemple</nom>
+        <id>283624249053413398</id>
+        <rouge>255</rouge><vert>0</vert><bleu>0</bleu>
+        <auteur>l'auteur</auteur>
+        <titre>Titre d'exemple</titre>
+        <description>Petite description de la famille</description>
+        <image>https://cdn.discordapp.com/attachments/991723759562129461/992399277986959462/IMG_0282.png</image>
+        <prix>5</prix>
+    </command>
+
+    <command>
+        <nom>exemples</nom>
+        <rouge>255</rouge><vert>0</vert><bleu>0</bleu>
+        <auteur>l'auteur</auteur>
+        <titre>Titre d'exemple numéro 2</titre>
+        <description>JSP Quoi mettre</description>
+        <image></image>
+        <prix>5</prix>
+    </command>
+
+</leonarddoo>
